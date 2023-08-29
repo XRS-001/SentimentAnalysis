@@ -1,4 +1,6 @@
 using System;
+using System.Net;
+using HtmlAgilityPack;
 
 namespace SentimentAnalysis
 {
@@ -6,7 +8,10 @@ namespace SentimentAnalysis
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Choose an option: 1. Train Model, 2. Run Predictions");
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine("Choose an option:");
+            Console.WriteLine("1: Train model");
+            Console.WriteLine("2: Run sentiment analysis on Steam game reviews");
             int choice = int.Parse(Console.ReadLine());
 
             if (choice == 1)

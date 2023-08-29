@@ -44,9 +44,17 @@
               "target": "Package",
               "version": "[30.0.1, )"
             },
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.52, )"
+            },
             "Microsoft.ML": {
               "target": "Package",
               "version": "[3.0.0-preview.23266.6, )"
+            },
+            "PuppeteerSharp": {
+              "target": "Package",
+              "version": "[11.0.2, )"
             }
           },
           "imports": [

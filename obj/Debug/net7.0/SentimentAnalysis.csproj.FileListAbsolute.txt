@@ -33,3 +33,13 @@ C:\Users\Con_P\Desktop\SentimentAnalysis\obj\Debug\net7.0\refint\SentimentAnalys
 C:\Users\Con_P\Desktop\SentimentAnalysis\obj\Debug\net7.0\SentimentAnalysis.pdb
 C:\Users\Con_P\Desktop\SentimentAnalysis\obj\Debug\net7.0\SentimentAnalysis.genruntimeconfig.cache
 C:\Users\Con_P\Desktop\SentimentAnalysis\obj\Debug\net7.0\ref\SentimentAnalysis.dll
+C:\Users\Con_P\Desktop\SentimentAnalysis\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\Con_P\Desktop\SentimentAnalysis\bin\Debug\net7.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Con_P\Desktop\SentimentAnalysis\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Con_P\Desktop\SentimentAnalysis\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Con_P\Desktop\SentimentAnalysis\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Con_P\Desktop\SentimentAnalysis\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Con_P\Desktop\SentimentAnalysis\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Con_P\Desktop\SentimentAnalysis\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Con_P\Desktop\SentimentAnalysis\bin\Debug\net7.0\Microsoft.Net.Http.Headers.dll
+C:\Users\Con_P\Desktop\SentimentAnalysis\bin\Debug\net7.0\PuppeteerSharp.dll
