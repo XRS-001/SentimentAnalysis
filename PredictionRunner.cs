@@ -16,9 +16,13 @@ public class PredictionRunner
         while (true)
         {
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("Pick a game");
+            Console.WriteLine("Pick a game or press enter to exit");
             Console.ForegroundColor = ConsoleColor.White;
             string gamePicked = Console.ReadLine();
+            if(gamePicked == "")
+            {
+                break;
+            }
             gamePicked = CapitalizeFirstLetter(gamePicked);
             int appId = GetAppId(gamePicked);
             Console.WriteLine("Calculating...");
@@ -135,7 +139,6 @@ public class PredictionRunner
             }
             else
             {
-                Console.WriteLine("Game not found");
                 return 0;
             }
         }
